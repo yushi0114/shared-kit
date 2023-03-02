@@ -1,6 +1,6 @@
 {
   "name": "sjzx-shared-kit",
-  "version": "0.0.1-alpha.3",
+  "version": "0.0.1-alpha.1",
   "main": "lib/index.js",
   "module": "esm/index.js",
   "typings": "types/index.d.ts",

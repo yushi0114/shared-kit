@@ -1,4 +1,4 @@
-# @sjzx/shared
+# @sjzx/shared-kit
 
 ## startup
 
@@ -13,19 +13,19 @@ $ npm i git+http://10.0.30.40:9191/dev1-group/sjzx-shared-kit.git#[TAG] -S
 ### update
 
 ``` bash
-# 修改`package.json/dependencies/sjzx-shared` -> `xgit:http....`
+# 修改`package.json/dependencies/sjzx-shared-kit` -> `xgit:http....`
 $ npm i
 
-# 目的是为了删除本地的 sjzx-shared 包
+# 目的是为了删除本地的 sjzx-shared-kit 包
 
-# 修改`package.json/dependencies/sjzx-shared` 到新 tag 版本
+# 修改`package.json/dependencies/sjzx-shared-kit` 到新 tag 版本
 $ npm i
 ```
 
 ## usage
 
 ``` ts
-import { noop } from 'sjzx-shared'
+import { noop } from 'sjzx-shared-kit'
 
 api.getFoo().catch(noop)
 ```
