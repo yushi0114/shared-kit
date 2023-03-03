@@ -7,7 +7,7 @@
 ### install
 
 ``` bash
-$ npm i git+http://10.0.30.40:9191/dev1-group/sjzx-shared-kit.git#[TAG] -S
+$ npm i git+http://10.0.30.40:9191/dev1-group/sjzx-shared-kit.git#0.0.1 -S
 ```
 
 ### update

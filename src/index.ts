@@ -1,4 +1,6 @@
-export function noop (..._args: any[]) {}
-export function identity<T = any>(o: T) { return o }
-
 export * from './crypto'
+export * from './const'
+export * from './date'
+export * from './func'
+export * from './regExp'
+export * from './tree'

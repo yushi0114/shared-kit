@@ -1,3 +1,6 @@
-export declare function noop(..._args: any[]): void;
-export declare function identity<T = any>(o: T): T;
 export * from './crypto';
+export * from './const';
+export * from './date';
+export * from './func';
+export * from './regExp';
+export * from './tree';

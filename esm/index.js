@@ -1,3 +1,6 @@
-export function noop(..._args) { }
-export function identity(o) { return o; }
 export * from './crypto';
+export * from './const';
+export * from './date';
+export * from './func';
+export * from './regExp';
+export * from './tree';

@@ -1,0 +1,12 @@
+export declare const corpCodeRegExp: RegExp;
+export declare const expectFinancingRegExp: RegExp;
+export declare const illegalSymbolRegExp: RegExp;
+export declare const allowedSymbolRegExp: RegExp;
+export declare const regexNumber: RegExp;
+export declare const regexDate: RegExp;
+export declare const regexCHNChar: RegExp;
+export declare const regexAddress: RegExp;
+export declare const organCodeRegExp: RegExp;
+export declare const regexOrgType: RegExp;
+export declare const regexPhone: RegExp;
+export declare const regexPercent: RegExp;
